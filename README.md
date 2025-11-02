@@ -6,7 +6,7 @@ Team ID : NM2025TMID01861
 
 Team Size : 4
 
-Team Member: Baranitharan G [822222104020]
+Team Leader: Baranitharan G [822222104020]
 
 Team member : Baarath V [822222104007]
 
