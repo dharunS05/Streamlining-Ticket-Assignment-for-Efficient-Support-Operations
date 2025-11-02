@@ -16,4 +16,4 @@ Team member : Dharun S [822222104012]
 
 Servicenow Instance: https://dev208656.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D78885e2a533432103e7412a0a0490e7b
 
-Demo Vedio Link: 
+Demo video Link: 
